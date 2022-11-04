@@ -1,0 +1,217 @@
+* {
+	font-family: "arial";
+	font-weight: lighter;
+    line-height: 1.5;
+}
+.table-resume {
+    width: 100%;
+    margin-left: 25px;
+}
+.td-table-resume {
+    text-align:center;
+}
+#defaultContactFormEmail{
+    margin-bottom:15px;
+}
+.header{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.logocontainer {
+margin-bottom: 3rem;
+}  
+.logo{
+    margin-top:35px;
+}
+.about me {
+    display: flex;
+    justify-content: space-between;
+    margin-left:80px;
+    margin-right: 80px;
+}
+h1 {
+    font-weight: bolder;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    color:rgb(3, 3, 169);
+    margin-left: 2%;
+}
+   h2 {
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    color: black;
+    letter-spacing: 8px;
+    border :2px inset cadetblue;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    border-radius: 40px;
+   }
+   header{
+    font-weight: bold;
+    padding-top: 2rem;
+    margin-left: 2%;
+
+   }
+   .header__navbar--menu {
+    display: flex;
+    padding:1rem;
+    padding-left: 4cm;
+    padding-right: 4cm;
+	align-items: center;
+	justify-content: space-between;
+	background: cadetblue;
+	color: #fff;
+    margin-top: 2rem;
+}
+#about {
+    font-weight :bolder;
+    padding-top: 2rem;
+    text-align: center;
+    color: black;
+}
+li {
+    margin :0.1cm;
+    padding-left: 0.5cm;
+    padding-right: 2cm;
+    padding-top: 0,1cm;
+    padding-bottom:m;
+    text-align: justify;
+}
+h4{
+    font-weight: bold;
+    text-align: left;
+    margin-left: 50px;
+    text-align: justify;
+}
+.profile-list{
+    list-style:none;
+    margin-left:47%;
+    padding-top: 25px;
+    
+
+}
+.bloc-about{
+ height: 380px;
+}
+.bloc-about-text{
+    text-align: center;
+}
+#img{
+    width: 300px;
+	height: 400px;
+    float: left;    
+    margin-left: 27%;
+    margin-top: 2%;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: cadetblue;
+	color: #fff;
+    margin-top: 10rem;
+	padding: 0.3px;  
+}
+.list-inline{
+    display: flex;
+}
+.list-inline-item {
+    margin :0.1cm;
+    list-style: none;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-top: 0,1cm;
+    padding-bottom:m;
+}
+a{
+text-decoration: none;
+color: #fff;
+font-weight: bold;
+}
+button{
+background-color: cadetblue;
+width: 5rem;
+height: 2.5rem;
+color: #fff;
+font-size: 15px;
+}
+th {
+    font-weight: bold;
+    color: black;
+    padding-top: 2rem;
+}
+h3 {
+    font-weight: bold;
+    color: cadetblue;
+    padding-left: 2%;
+    /* padding-top: 1.5rem; */
+}
+
+.form-control {
+    width:20rem;
+    height: 2rem;
+    margin-top: 2rem;
+}
+.profile-title{
+    margin-bottom: 1rem;
+}
+/* span {
+    padding-top: 20px;
+    margin-left: 200px;
+    padding-top: 10px;
+    font-size: 15px;
+} */
+form {
+    margin-left: 550px;
+}
+option {
+    width:20rem;
+    height: 2rem;
+    margin-top: 2rem;
+}
+
+
+.experience {
+    display: flex;
+    justify-content: space-between;
+    margin-left:150px;
+    margin-right: 80px;
+}
+h5{
+    font-weight: bold;
+    font-size: 20px;
+}
+.text-center {
+margin-left: 40%;
+margin-top: 4%;
+}
+.browser-default {
+    margin-left:30px;
+}
+iframe {
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.table-resume th {
+    color:cadetblue;
+}
+.lighter {
+    font-weight:lighter ;
+}
+.bolder {
+    font-weight:bold;
+}
+#civil {
+    margin-left: 2%; 
+}
+#training {
+    margin-left: 2%; 
+}
+.title {
+    font-weight:bold ;
+}
+.title +.cont {
+    display:flex;
+} 
